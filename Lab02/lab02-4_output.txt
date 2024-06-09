@@ -1,0 +1,14 @@
+a is 8152
+b is 27361080
+c is 81.000000
+d is 33.734940
+e is 21
+f is 2
+g is 2.000000
+h is 21.000000
+i is 22.000000
+j is 2
+k is 22.000000
+The area of the circle is 44.197605
+There are these many meters 4.593176
+In celsius it is 24.444444 degrees

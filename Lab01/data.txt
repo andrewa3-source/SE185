@@ -1,0 +1,5 @@
+
+Value before input: 0
+
+Type a number: Type your NetID: 
+Your input was 0 and your ISU email is ./lab01-1@iastate.edu
